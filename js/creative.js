@@ -2,7 +2,7 @@
     "use strict"; // Start of use strict
 
     $('#headerText').typeIt({
-     strings: ["Im Stanley.", "I'm a programmer.", "I'm also a photographer."],
+     strings: ["I'm Stanley.", "I'm a programmer.", "I'm also a photographer."],
      speed: 150,
      breakLines: true,
      autoStart: false,
